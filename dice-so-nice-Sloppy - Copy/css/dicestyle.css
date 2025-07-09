@@ -1,0 +1,21 @@
+/************** FONTS ************/
+@font-face {
+    font-family: "KH2 Font";
+    src: url("../fonts/KH2 Font.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Arcane Nine";
+    src: url("../fonts/Arcane Nine.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Earthbound";
+    src: url("../fonts/earthbound.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
