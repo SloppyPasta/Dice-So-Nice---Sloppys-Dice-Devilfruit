@@ -7,12 +7,11 @@
   "minimumCoreVersion": "11",
   "compatibleCoreVersion": "11",
   "esmodules": [
-    "./theme-pack.js"
+    "theme-pack.js"
   ],
   "styles": [
-    "./css/dicestyle.css"
+    "css/dicestyle.css"
   ],
   "url": "https://github.com/SloppyPasta/Dice-So-Nice---Sloppys-Dice-Devilfruit",
-  "manifest": "https://sloppypasta.github.io/Dice-So-Nice---Sloppys-Dice-Devilfruit/module.json",
-  "download": "https://sloppypasta.github.io/Dice-So-Nice---Sloppys-Dice-Devilfruit/sloppys-dice-pack.zip"
+  "manifest": "https://sloppypasta.github.io/Dice-So-Nice---Sloppys-Dice-Devilfruit/module.json"
 }
