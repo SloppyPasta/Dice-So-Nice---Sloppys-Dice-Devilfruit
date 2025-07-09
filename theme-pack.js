@@ -39,8 +39,8 @@ dice3d.addTexture("Doku Doku No Mi", {
 dice3d.addTexture("Gomu Gomu No Mi", {
 	    name: "🍝 Gomu Gomu No Mi",
 	    composite: "multiply",
-	    source: "modules/dice-so-nice-sloppys-devilfruit/textures/Gomu Gomu No Mi.png",
-	    bump: "modules/dice-so-nice-sloppys-devilfruit/textures/Gomu Gomu No Mib.png"
+	    source: "modules/dice-so-nice-sloppys-devilfruit/textures/Gomu Gomu no Mi.png",
+	    bump: "modules/dice-so-nice-sloppys-devilfruit/textures/Gomu Gomu no Mib.png"
 	});
 
 //////////////////////////////////////////
