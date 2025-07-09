@@ -10,5 +10,5 @@
   "esmodules": ["theme-pack.js"],
   "styles": ["css/dicestyle.css"],
   "url": "https://github.com/SloppyPasta/dice-so-nice-sloppys-devilfruit",
-  "manifest": "https://sloppypasta.github.io/dice-so-nice-sloppys-devilfruit/module.json",
+  "manifest": "https://sloppypasta.github.io/dice-so-nice-sloppys-devilfruit/module.json"
 }
